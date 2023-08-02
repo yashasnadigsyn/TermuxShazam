@@ -2,6 +2,10 @@
 
 A music recognition app for termux users
 
+# Prerequisites
+
+You have to install the termux-api app ([look here](https://wiki.termux.com/wiki/Termux:API))
+
 # Installation
 
 1) clone the repository\

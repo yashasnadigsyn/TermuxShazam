@@ -20,4 +20,8 @@ You have to install the termux-api app ([look here](https://wiki.termux.com/wiki
 # How to use
 
 Just share the video you are watching to termux. It will do everything.
+Video demo: [here](https://imgur.com/gallery/2dnOWtC)
 
+# Credits
+
+Thanks to [ShazamIO](https://github.com/dotX12/ShazamIO) and [yt-dlp](https://github.com/yt-dlp/yt-dlp)

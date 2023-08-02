@@ -4,13 +4,13 @@ A music recognition app for termux users
 
 # Installation
 
-1) clone the repository
+1) clone the repository\
 `git clone https://github.com/yashasnadigsyn/TermuxShazam`
-2) go to TermuxShazam folder
+2) go to TermuxShazam folder\
 `cd TermuxShazam`
-3) give required permissions
+3) give required permissions\
 `chmod a+x install.sh`
-4) run the installation script
+4) run the installation script\
 `./install.sh`
 
 # How to use

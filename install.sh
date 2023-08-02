@@ -1,5 +1,8 @@
+pkg update
+pkg upgrade
 pkg install python
 pkg install python-numpy
+pkg update
 pkg install ffmpeg
 pip install -U yt-dlp
 pip install shazamio

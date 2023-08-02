@@ -31,7 +31,6 @@ async def main():
   shazam = Shazam()
   out = await shazam.recognize_song('recognize/'+filenames[0])
   try:
-    print(out)
     song_url = out['track']['hub']['actions'][1]['uri']
     song_name = out['track']['title']
     id = out['matches'][0]['id']

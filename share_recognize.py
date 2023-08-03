@@ -7,6 +7,9 @@ url = sys.argv[1]
 
 print(url)
 
+if "instagram.com" and "reels" in url:
+    url = url.replace("reels", "p")
+
 try:
     os.system("mkdir recognize")
 except:

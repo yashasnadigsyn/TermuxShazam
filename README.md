@@ -8,7 +8,7 @@ You have to install the termux-api app ([look here](https://wiki.termux.com/wiki
 
 # Quick Installation
 ```bash
-curl https://raw.githubusercontent.com/yashasnadigsyn/TermuxShazam/main/quick-install.sh | bash"
+curl https://raw.githubusercontent.com/yashasnadigsyn/TermuxShazam/main/quick-install.sh | bash
 ```
 
 # Installation
